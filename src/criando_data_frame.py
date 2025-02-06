@@ -7,3 +7,4 @@ df = df.rename({'BANDEIRA':'REDE'},axis=1)
 def to_binary():
   #implementação
   pass
+  exit()
