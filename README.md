@@ -42,7 +42,7 @@ Modular Structure: The code must be organized into modules.\
 Task Division: Each participant must implement at least one feature.\
 History Logging: The application must store a record of performed conversions and user inputs.\
 Input Validation: The application must ensure that users enter valid binary values.
-
+Nature
 
 tales: Modo 1 -> eu não sei converter!
 
