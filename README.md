@@ -13,10 +13,6 @@ Validação de entrada: Deve haver tratamento para garantir que o usuário insir
 <br><br>
 <br><br>
 <br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
 #RT Training
 06/02/2025
 
