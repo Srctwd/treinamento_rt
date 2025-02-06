@@ -28,3 +28,5 @@ Input Validation: The application must ensure that users enter valid binary valu
 
 
 tales: Modo 1 -> eu não sei converter!
+
+João Guthembergue - Tô levando pika aq
