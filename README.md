@@ -3,8 +3,8 @@
 
 Desenvolva uma aplicação em Python com os seguintes requisitos:
 
-Modos de operação: O usuário seleciona um dos dois modos através de argumentos do sistema.
-Modo 1: Converte um número binário para base 10.
+Modos de operação: O usuário seleciona um dos dois modos através de argumentos do sistema.\
+Modo 1: Converte um número binário para base 10.\
 Modo 2: Converte um número binário para base 7.
 Estrutura modular: O código deve ser organizado em módulos.
 Divisão de tarefas: Cada participante deve implementar pelo menos uma funcionalidade.
