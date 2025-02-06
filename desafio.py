@@ -1,4 +1,4 @@
-import system32 erro
+import sys
 import os
 
 # Módulo para validação de entrada
