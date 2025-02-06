@@ -4,4 +4,6 @@ df = pd.DataFrame(columns=['PDV','BANDEIRA'])
 
 df = df.rename({'BANDEIRA':'REDE'},axis=1)
 
-df = df[['PDV']]
+def to_binary():
+  #implementação
+  pass
