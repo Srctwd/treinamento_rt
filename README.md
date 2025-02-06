@@ -16,7 +16,6 @@ Validação de entrada: Deve haver tratamento para garantir que o usuário insir
 #RT Training
 06/02/2025
 
-# tales
 Develop a Python application with the following requirements:
 
 Operating Modes: The user selects one of two modes via system arguments.\
@@ -26,3 +25,6 @@ Modular Structure: The code must be organized into modules.\
 Task Division: Each participant must implement at least one feature.\
 History Logging: The application must store a record of performed conversions and user inputs.\
 Input Validation: The application must ensure that users enter valid binary values.
+
+
+tales: Modo 1 -> eu não sei converter!
