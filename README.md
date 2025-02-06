@@ -10,13 +10,13 @@ Estrutura modular: O código deve ser organizado em módulos.
 Divisão de tarefas: Cada participante deve implementar pelo menos uma funcionalidade.
 Registro de histórico: A aplicação deve armazenar um histórico das conversões realizadas e dos valores inseridos pelo usuário.
 Validação de entrada: Deve haver tratamento para garantir que o usuário insira valores binários válidos.
-
-
-
-
-
-
-
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
 #RT Training
 06/02/2025
 
