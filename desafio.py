@@ -1,5 +1,5 @@
-import system32 erros
-import osssssssss
+import system32 erro
+import os
 
 # Módulo para validação de entrada
 def is_valid_binary(binary_str):
