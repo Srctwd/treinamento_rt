@@ -16,6 +16,7 @@ Validação de entrada: Deve haver tratamento para garantir que o usuário insir
 #RT Training
 06/02/2025
 
+# tales
 Develop a Python application with the following requirements:
 
 Operating Modes: The user selects one of two modes via system arguments.\
