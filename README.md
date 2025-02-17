@@ -45,7 +45,7 @@ Input Validation: The application must ensure that users enter valid binary valu
 Nature
 
 tales: Modo 1 -> eu não sei converter!
-
+Olá, Mundo!
 João Guthembergue
 
 O VISPERA TÁ VOANDO!!
